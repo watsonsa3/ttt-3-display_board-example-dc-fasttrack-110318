@@ -4,11 +4,11 @@ def display_board
   row = ["   ","|","   ","|","   "]
   dashline = "___________"
 
-  puts row
+  prints row
   puts dashline
-  puts row
+  prints row
   puts dashline
-  puts row
+  prints row
 end
 
 display_board
