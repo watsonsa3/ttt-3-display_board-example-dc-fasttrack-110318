@@ -2,9 +2,9 @@
 
 def display_board
   puts '   |   |   '
-  puts '___________'
+  puts '_ _ _ _ _ _ _ _ _ _ _'
   puts '   |   |   '
-  puts '___________'
+  puts '_ _ _ _ _ _ _ _ _ _ _'
   puts '   |   |   '
 
 end
