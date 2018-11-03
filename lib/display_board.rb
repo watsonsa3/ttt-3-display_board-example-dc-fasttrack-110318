@@ -6,9 +6,9 @@ def display_board
 
   prints row
   puts dashline
-  prints row
+  print row
   puts dashline
-  prints row
+  print row
 end
 
 display_board
